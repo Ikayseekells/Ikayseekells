@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ikayseekells
 - 👀 I’m interested in being a PRO developer
 - 🌱 I’m currently learning programming with chakra 
-- 💞️ I’m looking to collaborate on blockchain development community
+- 💞️ I’m looking to collaborate with developers with passion
 - 📫 How to reach me? You can contact via GitHub & Instangram "@kayseekells" 
 
 <!---
